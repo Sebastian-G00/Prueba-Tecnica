@@ -10,4 +10,5 @@ Este es el repositorio de un proyecto simple de Gestión de Libreria hecho en AS
 -  Entity Framework Core
 
 🗃️ Diagrama Entidad Relación
--  ![image](https://github.com/user-attachments/assets/a154eda3-b10a-4fa8-ba1d-08dbda335abc)
+- ![image](https://github.com/user-attachments/assets/e5358e6a-84f6-4bad-a2ba-38296ece867a)
+
